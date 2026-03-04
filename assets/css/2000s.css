@@ -53,7 +53,7 @@ p {
 	top: 10px;
 	width: 600px;
 	height: 500px;
-	overflow: hidden;
+	overflow: scroll;
 	color: black;
 	background-color: rgb(215, 187, 160);
 	
@@ -89,7 +89,7 @@ p {
 	top: 520px;
 	width: 300px;
 	height: 500px;
-	overflow: hidden;
+	overflow: scroll;
 	color: black;
 	background-color: rgb(215, 187, 160);
 	
@@ -122,7 +122,7 @@ p {
 	top: 520px;
 	width: 340px;
 	height: 650px;
-	overflow: hidden;
+	overflow: scroll;
 	color: black;
 	background-color: rgb(215, 187, 160);
 	
@@ -155,7 +155,7 @@ p {
 	top: 1000px;
 	width: 249px;
 	height: 750px;
-	overflow: hidden;
+	overflow: scroll;
 	color: black;
 	background-color: rgb(215, 187, 160);
 	
@@ -189,7 +189,7 @@ p {
 	top: 1000px;
 	width: 290px;
 	height: 780px;
-	overflow: hidden;
+	overflow: scroll;
 	color: black;
 	background-color: rgb(215, 187, 160);
 	
@@ -304,3 +304,4 @@ p {
 	height: 560px;
 	color: black;
 	background-color: rgb(215, 187, 160);
+}
